@@ -43,7 +43,7 @@ Para exportar a HTML:
 jupyter nbconvert --to html sm.jimenezp1_j.trivinon.ipynb
 ```
 
-El notebook se probó con Python 3.12, scikit-learn 1.9.0, pandas 3.0.5, numpy 2.5.2 y Pillow 12.3.0.
+El notebook se probó con Python 3.14, scikit-learn 1.9.1, pandas 3.1.0, numpy 2.5.4 y Pillow 13.0.0.
 
 ## Contenido del notebook
 
